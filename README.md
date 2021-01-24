@@ -7,7 +7,7 @@
 
 
 
-[Live Demo](https://praveencountdown-timer-app.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countdown-timer-reactjs/)
 
 
 
