@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-countdown-timer-reactjs/static/css/main.379834ca.chunk.css",
+    "main.js": "/praveenorugantitech-countdown-timer-reactjs/static/js/main.c4b82ff5.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-countdown-timer-reactjs/static/js/runtime-main.772130ec.js",
+    "static/js/2.47e02a0e.chunk.js": "/praveenorugantitech-countdown-timer-reactjs/static/js/2.47e02a0e.chunk.js",
+    "index.html": "/praveenorugantitech-countdown-timer-reactjs/index.html",
+    "precache-manifest.ef1797f363ac28eec3aae709b44afb39.js": "/praveenorugantitech-countdown-timer-reactjs/precache-manifest.ef1797f363ac28eec3aae709b44afb39.js",
+    "service-worker.js": "/praveenorugantitech-countdown-timer-reactjs/service-worker.js",
+    "static/js/2.47e02a0e.chunk.js.LICENSE.txt": "/praveenorugantitech-countdown-timer-reactjs/static/js/2.47e02a0e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/praveenorugantitech-countdown-timer-reactjs/static/media/newyear.4c940fa9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.772130ec.js",
+    "static/js/2.47e02a0e.chunk.js",
+    "static/css/main.379834ca.chunk.css",
+    "static/js/main.c4b82ff5.chunk.js"
+  ]
+}
